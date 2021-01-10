@@ -40,5 +40,9 @@ A mobile application built using React Native
 - React Native
 - Socket.IO
 - NodeJS
+- MongoDB
 - Expo app
 - React Navigation
+
+## Backend
+[a link](https://github.com/siddharthkureel/chat-back-native)
