@@ -45,4 +45,6 @@ A mobile application built using React Native
 - React Navigation
 
 ## Backend
-[a link](https://github.com/siddharthkureel/chat-back-native)
+[Node/MongoDB](https://github.com/siddharthkureel/chat-back-native)
+[Socket.IO](https://github.com/siddharthkureel/chat-back-socket)
+
