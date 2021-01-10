@@ -1,4 +1,4 @@
-# React Native Chat
+# React Native Tracker Chat
 
 A mobile application built using React Native
 
