@@ -1,6 +1,7 @@
 # React Native Tracker Chat
 
-A mobile application built using React Native
+A mobile application built using React Native. Where you can register your account and add contacts via email and Chat with them.
+Chat will stored in database in mongodb.
 
 ## Features
 
